@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://eric2089ye-oss.github.io/poople-game-hub/sitemap.xml
